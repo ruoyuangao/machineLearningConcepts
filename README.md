@@ -28,9 +28,7 @@
 - 数据集：多个样本的集合，一般具有相同个数的特征
 - 分布 (distribution) ：通常假设样本空间服从一个位置分布D，每个样本独立同分布，通常收集到的样本越多，越能从样本中反推出D的信息，即越接近真相
 - 特征工程 (feature engineering) ：与特征处理相关的工作
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fffd34e5-0ea7-4da0-bfe5-2ccb4b971ab7/e344be68-3e09-4e44-b44e-d76578391d3f/Untitled.png)
-
+  
 ## 归纳偏好
 
 - 归纳偏好 (inductive bias) ：不同算法有不同的偏好
